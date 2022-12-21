@@ -1,0 +1,14 @@
+.Nav {
+    margin-left: auto;
+}
+.Buttons {
+    margin-left: 2%;
+}
+.Contain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .Contain.H {
+    height: window.innerHeight - 54;
+} */
